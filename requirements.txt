@@ -1,0 +1,8 @@
+numpy
+pandas
+sklearn
+opencv-python
+pygame
+mediapipe
+matplotlib
+tqdm

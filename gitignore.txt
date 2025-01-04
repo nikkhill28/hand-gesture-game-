@@ -1,0 +1,6 @@
+images/*
+!images/compress_dataset.py
+
+__pycache__
+.ipynb_checkpoints
+.idea
